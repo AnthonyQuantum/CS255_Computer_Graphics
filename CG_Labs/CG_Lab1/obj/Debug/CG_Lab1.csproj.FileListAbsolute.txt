@@ -1,0 +1,9 @@
+C:\Users\aq-laptop-win\source\repos\CG_Labs\CG_Lab1\bin\Debug\CG_Lab1.exe.config
+C:\Users\aq-laptop-win\source\repos\CG_Labs\CG_Lab1\bin\Debug\CG_Lab1.exe
+C:\Users\aq-laptop-win\source\repos\CG_Labs\CG_Lab1\bin\Debug\CG_Lab1.pdb
+C:\Users\aq-laptop-win\source\repos\CG_Labs\CG_Lab1\obj\Debug\CG_Lab1.csprojAssemblyReference.cache
+C:\Users\aq-laptop-win\source\repos\CG_Labs\CG_Lab1\obj\Debug\CG_Lab1.Form1.resources
+C:\Users\aq-laptop-win\source\repos\CG_Labs\CG_Lab1\obj\Debug\CG_Lab1.Properties.Resources.resources
+C:\Users\aq-laptop-win\source\repos\CG_Labs\CG_Lab1\obj\Debug\CG_Lab1.csproj.GenerateResource.cache
+C:\Users\aq-laptop-win\source\repos\CG_Labs\CG_Lab1\obj\Debug\CG_Lab1.exe
+C:\Users\aq-laptop-win\source\repos\CG_Labs\CG_Lab1\obj\Debug\CG_Lab1.pdb
