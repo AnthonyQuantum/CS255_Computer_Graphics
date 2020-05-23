@@ -1,0 +1,16 @@
+C:\Users\aq-laptop-win\Desktop\Computer_Graphics_course\CG_Labs\CG_Lab3\bin\Debug\CG_Lab3.exe.config
+C:\Users\aq-laptop-win\Desktop\Computer_Graphics_course\CG_Labs\CG_Lab3\bin\Debug\CG_Lab3.exe
+C:\Users\aq-laptop-win\Desktop\Computer_Graphics_course\CG_Labs\CG_Lab3\bin\Debug\CG_Lab3.pdb
+C:\Users\aq-laptop-win\Desktop\Computer_Graphics_course\CG_Labs\CG_Lab3\bin\Debug\OpenTK.dll
+C:\Users\aq-laptop-win\Desktop\Computer_Graphics_course\CG_Labs\CG_Lab3\bin\Debug\OpenTK.pdb
+C:\Users\aq-laptop-win\Desktop\Computer_Graphics_course\CG_Labs\CG_Lab3\bin\Debug\OpenTK.xml
+C:\Users\aq-laptop-win\Desktop\Computer_Graphics_course\CG_Labs\CG_Lab3\bin\Debug\OpenTK.dll.config
+C:\Users\aq-laptop-win\Desktop\Computer_Graphics_course\CG_Labs\CG_Lab3\obj\Debug\CG_Lab3.csprojAssemblyReference.cache
+C:\Users\aq-laptop-win\Desktop\Computer_Graphics_course\CG_Labs\CG_Lab3\obj\Debug\CG_Lab3.Properties.Resources.resources
+C:\Users\aq-laptop-win\Desktop\Computer_Graphics_course\CG_Labs\CG_Lab3\obj\Debug\CG_Lab3.csproj.GenerateResource.cache
+C:\Users\aq-laptop-win\Desktop\Computer_Graphics_course\CG_Labs\CG_Lab3\obj\Debug\CG_Lab3.csproj.CopyComplete
+C:\Users\aq-laptop-win\Desktop\Computer_Graphics_course\CG_Labs\CG_Lab3\obj\Debug\CG_Lab3.exe
+C:\Users\aq-laptop-win\Desktop\Computer_Graphics_course\CG_Labs\CG_Lab3\obj\Debug\CG_Lab3.pdb
+C:\Users\aq-laptop-win\Desktop\Computer_Graphics_course\CG_Labs\CG_Lab3\bin\Debug\OpenTK.GLControl.dll
+C:\Users\aq-laptop-win\Desktop\Computer_Graphics_course\CG_Labs\CG_Lab3\bin\Debug\OpenTK.GLControl.xml
+C:\Users\aq-laptop-win\Desktop\Computer_Graphics_course\CG_Labs\CG_Lab3\obj\Debug\CG_Lab3.Form1.resources
